@@ -11,4 +11,6 @@ Criado com o objetivo de praticar **lógica de programação, comandos CMD e aut
 - Menu de configuração para editar nome, idade e notas
 - Interface simples, feita 100% com `echo`, `set /p`, `if`, `goto` e `choice`
 
+**⚠️ PODE HAVER BUGS**
+
   
